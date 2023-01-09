@@ -2,8 +2,8 @@
 
 # Shogi with linked list in C
 
-##### Data Structure Assignment2
-##### 通訊二110503504林巧翎
+### Data Structure Assignment2
+### 通訊二110503504林巧翎
 
 
 ## Introduction
