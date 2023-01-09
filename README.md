@@ -7,20 +7,16 @@
 
 
 ## Introduction
+
 將棋對弈程式
 
-## Compile
-
-```
+## Compile `make`
 gcc -c src/main.c -o build/main.o
 gcc build/main.o -o bin/main -lm
-```
 
-## Run
 
-```
-./bin/main
-```
+## Run `./bin/main`
+
 ## Play
 
 玩家一
