@@ -12,6 +12,8 @@
 
 ## Compile 
 `make`
+
+
 gcc -c src/main.c -o build/main.o
 
 
